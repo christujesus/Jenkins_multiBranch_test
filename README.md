@@ -1,7 +1,6 @@
-New changes done by developer
+First change 
 
-some more changes dondddddddeddd
+some other change 
 
 
-cccccc
-
+ok
